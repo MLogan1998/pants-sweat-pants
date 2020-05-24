@@ -26,7 +26,7 @@ header p {
 }
 
 #navLinks {
-  width: 100%;
+  width: 90%;
   list-style-type: none;
   display:flex;
   margin: 0px 0px 15px 15px;
@@ -202,6 +202,10 @@ footer li {
 #footerLinks a:hover {
   color: #B17B33;
   
+}
+
+#about-header img {
+  max-width: 100%;
 }
 
 .nav-col {
@@ -389,7 +393,8 @@ footer li {
   .jumbotron {
     padding: 0px;
     background-image: url("images/jumbotronimage_phone.jpg");
-    background-position: center;
+    /* background-position: center; */
+    width: 100%;
     background-size: cover;
     height: 580px;
   }
@@ -401,9 +406,18 @@ footer li {
     margin-top: 0px;
     padding: 10px;
   }
+  .navbar-text {
+    padding: 0px;
+    font-weight: bold;
+    justify-content: right;
+    color: #8592AC;
+  }
 
   .nav-col {
     width: 100%;
     margin: 0px;
   }
+a#navToReviews {
+  margin-right: 0px;
+}
 }
