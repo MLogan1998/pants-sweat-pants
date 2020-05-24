@@ -24,4 +24,4 @@ The Sweatpants Group:
 
 
 ## How To Run:
-> Project is deployed at [https://logandevelopment.io/projects/sweatys/sweatys.html](https://logandevelopment.io/projects/sweatys/sweatys.htmll)
+> Project is deployed at [https://logandevelopment.io/projects/sweatys/sweatys.html](https://logandevelopment.io/projects/sweatys/sweatys.html)
