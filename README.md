@@ -15,6 +15,7 @@ The Sweatpants Group:
 1. Shopping Cart data stored in localStorage. Data saved after page reloads, and across browser sessions.
 1. Nav bar updates cart total when item added, persists on navigation to new page and across broswer sessions. 
 
+## Screenshots
  ##### Homepage
 ![Homepage](screenshots/readme1.jpg)
 ##### Shopping Cart
