@@ -22,7 +22,3 @@ The Sweatpants Group:
 ![Shopping Cart](screenshots/readme2.jpg)
 ##### Responsive Design
 ![Responsive View](screenshots/readme3.jpg)
-
-
-## How To Run:
-> Project is deployed at [https://logandevelopment.io/projects/sweatys/sweatys.html](https://logandevelopment.io/projects/sweatys/sweatys.html)
